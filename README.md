@@ -1,10 +1,7 @@
 # 3d-printed-tin-can-turbo-jet-
 
+<h>Hey new person!</h>
 
-This is an amalgamation of all my favorite things. 3d modeling, 3d printing, coding, and most importantly; blowing stuff up. 
-
-
-Hey new person! 
 
 First a disclaimer: I am not a professional!
 I do not have a professional engineering background nor do I have a degree in it. 
