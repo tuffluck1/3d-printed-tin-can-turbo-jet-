@@ -1,7 +1,7 @@
 all resources created by me! :)
 
 
-Hey-new-person!
+Hey new person!
 
 
 First a disclaimer: I am not a professional!
