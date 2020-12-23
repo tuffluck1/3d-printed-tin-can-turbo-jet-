@@ -1,6 +1,8 @@
-# 3d-printed-tin-can-turbo-jet-
+#tin-can-turbo-jet
+all resources created by me!
 
-<h>Hey new person!</h>
+
+#Hey-new-person!
 
 
 First a disclaimer: I am not a professional!
