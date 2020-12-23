@@ -1,8 +1,9 @@
-#tin-can-turbo-jet
-all resources created by me!
+#-tin-can-turbo-jet
+
+all resources created by me! :)
 
 
-#Hey-new-person!
+Hey-new-person!
 
 
 First a disclaimer: I am not a professional!
