@@ -1,10 +1,8 @@
-all resources created by me! :)
+Hello fellow nerds!
 
+This is a project that I made that is a 3d printable jet engine that uses a can as its combustion . 
 
-Hey new person!
-
-
-First a disclaimer: I am not a professional!
+before any specifics, a disclaimer: I am not a professional!
 I do not have a professional engineering background nor do I have a degree in it. 
 I do not suggest you build this yourself. This repos purpose is for me to have something to show off to colleges if it doesnt kill me. So,
 just to reiterate, dont build this, if you decide to build this you are not only risking your wellbeing on non-professional design
